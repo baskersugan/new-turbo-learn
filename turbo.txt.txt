@@ -1,10 +1,7 @@
-Atoms
-In scientific terms, atoms are the basic building blocks that together make up matter. When you translate that over to a website design methodology, they serve a similar purpose. Atoms act as the basic building blocks for all of your website design efforts. While they aren’t design elements that can stand alone, together they create different elements that are used throughout your website’s layout. Atoms can include any of the following:
-learning design system
-1. Fonts
-2. Color schemes
-3. Buttons
-4. Form fields
-5. Logos
-6. Inputs
-7. Labels
+
+
+new code typed,<html>
+</html>
+new project creat<body>
+</body>
+>>>>>>> 0a671187b829d5ca7a921f09d8fffc4aa443b685
