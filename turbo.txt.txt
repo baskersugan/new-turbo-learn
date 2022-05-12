@@ -1,2 +1,6 @@
 Atoms
 In scientific terms, atoms are the basic building blocks that together make up matter. When you translate that over to a website design methodology, they serve a similar purpose. Atoms act as the basic building blocks for all of your website design efforts. While they aren’t design elements that can stand alone, together they create different elements that are used throughout your website’s layout. Atoms can include any of the following:
+new code typed,<html>
+</html>
+new project creat<body>
+</body>
